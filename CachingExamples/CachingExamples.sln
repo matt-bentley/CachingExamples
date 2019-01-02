@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingExamples.Web", "CachingExamples\CachingExamples.Web.csproj", "{0A53C134-9070-4DDE-93FF-F7E285087D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingExamples.Cache", "CachingExamples.Cache\CachingExamples.Cache.csproj", "{BA80A1EC-C9BA-4B2D-8B01-2F6CEBDF516A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A53C134-9070-4DDE-93FF-F7E285087D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A53C134-9070-4DDE-93FF-F7E285087D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A53C134-9070-4DDE-93FF-F7E285087D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A53C134-9070-4DDE-93FF-F7E285087D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA80A1EC-C9BA-4B2D-8B01-2F6CEBDF516A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA80A1EC-C9BA-4B2D-8B01-2F6CEBDF516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA80A1EC-C9BA-4B2D-8B01-2F6CEBDF516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA80A1EC-C9BA-4B2D-8B01-2F6CEBDF516A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5632EA09-B71F-475C-AE9A-2D7B0C07CA85}
+	EndGlobalSection
+EndGlobal
